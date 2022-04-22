@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SauravCrest
-- 👀 I’m interested in Programming...
-- 🌱 I’m currently learning IT...
-- 💞️ I’m looking to collaborate App Developing ...
-- 📫 BNP 11 CHITWAN...
+- 👋 Hi, I’m Saurav Shrestha
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning IT.
+- 💞️ I’m looking to collaborate App Developing.
+- 📫 How to reach me? Email me= Sauravsthasaurav@gmail.com
 
 <!---
 SauravCrest/SauravCrest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
